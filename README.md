@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 Create a virtual environment and activate it:
 2)Install the required dependencies:
 
- ```bash
+ 
 pip install -r requirements.txt
 
 
