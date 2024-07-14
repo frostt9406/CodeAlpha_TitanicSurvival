@@ -29,17 +29,15 @@ To run this project locally, follow these steps:
    git clone https://github.com/your-username/titanic-survival-classification.git
    cd titanic-survival-classification
 Create a virtual environment and activate it:
+2)Install the required dependencies:
 
-'''bash
-Copy code
-python -m venv venv
-source venv/bin/activate   # On Windows use `venv\Scripts\activate`
-Install the required dependencies:
-
-'''bash
-Copy code
+ ```bash
 pip install -r requirements.txt
 
+
+3)Explore the Jupyter notebook:
+
+Open and explore Titanic_Survival_Classification.ipynb in Jupyter Notebook to see detailed analysis and model implementation.
 ### Results
 
 The Random Forest Classifier achieved an accuracy of 97.33% in predicting survival outcomes on the Titanic dataset. This performance is summarized below:
